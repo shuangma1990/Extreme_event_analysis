@@ -1,2 +1,3 @@
 # Extreme_event_analysis
-data pipeline for impact of extreme temperatures on photosynthesis over the globe
+research topic: impact of extreme temperatures on photosynthesis over the globe
+data pipeline for data transforming and visualization
