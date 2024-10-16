@@ -1,2 +1,2 @@
 # Extreme_event_analysis
-data pipeline for analyzing global extreme temperatures on photosynthesis 
+data pipeline for impact of extreme temperatures on photosynthesis over the globe
